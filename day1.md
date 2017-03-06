@@ -18,4 +18,19 @@
 - .unshift
 
 ##Scope Review
-- 
+- Global Scopes
+- Local Scopes
+- Argument Scopes
+- Iterator Scopes
+
+##Functions
+- Passing Arguments
+- Returning Values
+- Declared Function
+- Function Expression
+- Hoisting
+
+##Objects
+- Literal
+- Constructor Functions
+- Key / Value Pairs
